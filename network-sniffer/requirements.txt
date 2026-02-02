@@ -1,0 +1,8 @@
+
+PySide6
+scapy
+pyshark
+matplotlib
+numpy
+scikit-learn
+reportlab
