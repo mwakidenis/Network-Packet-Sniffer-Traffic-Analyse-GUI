@@ -300,7 +300,7 @@ End
 
 ## ⚠️ Cautions
 
->[!cautions]
+>[!caution]
 > * ❌ Do NOT use on public networks
 > * ❌ Do NOT sniff without permission
 > * ❌ Educational use only
