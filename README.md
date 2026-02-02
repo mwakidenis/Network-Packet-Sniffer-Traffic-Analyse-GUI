@@ -2,6 +2,14 @@
 
 Captures &amp; Analyses live network traffic in real time to detect suspicious activities using rule-based, MITRE-mapped, and machine-learning techniques.
 
+## 📸 Screenshots
+
+![screenshot 1](https://github.com/SyedShaheerHussain/Network-Packet-Sniffer-Traffic-Analyse-GUI/blob/adfc26333e9620128a1241615a3514c18f0e089b/network-sniffer/screenshots/Screenshot%20(57).png)
+
+![screenshot 2](https://github.com/SyedShaheerHussain/Network-Packet-Sniffer-Traffic-Analyse-GUI/blob/adfc26333e9620128a1241615a3514c18f0e089b/network-sniffer/screenshots/Screenshot%20(58).png)
+
+![screenshot 3](https://github.com/SyedShaheerHussain/Network-Packet-Sniffer-Traffic-Analyse-GUI/blob/adfc26333e9620128a1241615a3514c18f0e089b/network-sniffer/screenshots/Screenshot%20(59).png)
+
 # 🛡️ Enterprise Network Sniffer IDS (Intrusion Detection System)
 
 **Developed by:** © 2026 **Syed Shaheer Hussain**
