@@ -350,6 +350,7 @@ All rights reserved.
 
 ## ⭐ Final Note
 
-This project demonstrates **real enterprise cybersecurity concepts** in a simple, understandable, and extensible way. It is ideal for students, researchers, and security enthusiasts.
+>[!note]
+> This project demonstrates **real enterprise cybersecurity concepts** in a simple, understandable, and extensible way. It is ideal for students, researchers, and security enthusiasts.
 
 🛡️ *Learn. Detect. Defend.*
